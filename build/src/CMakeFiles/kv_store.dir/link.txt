@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11  -shared -Wl,-soname,libkv_store.so -o libkv_store.so CMakeFiles/kv_store.dir/file_io.cc.o CMakeFiles/kv_store.dir/data_mgr.cc.o CMakeFiles/kv_store.dir/meta_mgr.cc.o CMakeFiles/kv_store.dir/kv_store.cc.o CMakeFiles/kv_store.dir/kv_intf.cc.o 

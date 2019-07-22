@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mike/kvstore/test/simple_case.cc
+simple_case.h
+/home/mike/kvstore/test/simple_case.h
+dlfcn.h
+-
+chrono
+-
+pthread.h
+-
+concurrentqueue.h
+-
+easylogging++.h
+-
+
+/home/mike/kvstore/test/simple_case.h
+kv_string.h
+/home/mike/kvstore/test/kv_string.h
+kv_intf.h
+/home/mike/kvstore/test/kv_intf.h
+
+/home/mike/kvstore/test/tester.cc
+unistd.h
+-
+sys/stat.h
+-
+dirent.h
+-
+iostream
+-
+easylogging++.h
+/home/mike/kvstore/test/easylogging++.h
+simple_case.h
+/home/mike/kvstore/test/simple_case.h
+

@@ -1,0 +1,11 @@
+2019-07-21 14:19:41,543 INFO  [default] Begin test with key size: 8, val size: 4096
+2019-07-21 14:19:41,543 INFO  [default]   >> KV number : 1 M /thread
+2019-07-21 14:19:41,543 INFO  [default]   >> KVStor    : ../libEngineKVStore.so
+2019-07-21 14:19:41,543 INFO  [default] make dir: ./data
+2019-07-21 14:19:41,545 ERROR [default] Get kv_store shared_ptr failed, check "GetKVIntf" in user SO first
+2019-07-21 14:19:41,545 INFO  [default] time: -1 seconds, error number: 0
+2019-07-21 14:35:39,884 INFO  [default] Begin test with key size: 8, val size: 4096
+2019-07-21 14:35:39,884 INFO  [default]   >> KV number : 1 M /thread
+2019-07-21 14:35:39,884 INFO  [default]   >> KVStor    : ../src/libkv_engine.so
+2019-07-21 14:35:39,887 ERROR [default] Get kv_store shared_ptr failed, check "GetKVIntf" in user SO first
+2019-07-21 14:35:39,887 INFO  [default] time: -1 seconds, error number: 0

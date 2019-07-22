@@ -1,0 +1,8 @@
+/home/mike/kvstore/build/CMakeFiles/rebuild_cache.dir
+/home/mike/kvstore/build/CMakeFiles/edit_cache.dir
+/home/mike/kvstore/build/src/CMakeFiles/rebuild_cache.dir
+/home/mike/kvstore/build/src/CMakeFiles/kv_store.dir
+/home/mike/kvstore/build/src/CMakeFiles/edit_cache.dir
+/home/mike/kvstore/build/test/CMakeFiles/rebuild_cache.dir
+/home/mike/kvstore/build/test/CMakeFiles/tester.dir
+/home/mike/kvstore/build/test/CMakeFiles/edit_cache.dir

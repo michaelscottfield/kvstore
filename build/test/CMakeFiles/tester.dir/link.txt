@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/tester.dir/tester.cc.o CMakeFiles/tester.dir/simple_case.cc.o  -o tester -lpthread -ldl 
